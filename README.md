@@ -5,10 +5,10 @@ This app is designed to intuitively demonstrate why beams are shaped the way the
 
 ### To Do
 
-- [ ] Enforce more restrictions on input edge cases
+- [ ] Enforce more restrictions on input edge cases (need to update where load is when length changes)
 - [ ] Fix dynamic load arrow sizing
-- [ ] Implement supports 
-- [ ] Implement bending equations
-- [ ] Drop down for multiple materials
+- [x] Implement supports 
+- [x] Implement bending equations (still unsure if these are right, need some hand calcs)
+- [x] Drop down for multiple materials
 - [ ] Light for bending failures
 - [ ] Buckling?????? 
